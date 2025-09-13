@@ -1,4 +1,4 @@
-##Sales Data Analysis
+## Sales Data Analysis
 
 ## Overview
 This project analyzes the Diwali sales data to uncover insights into customer purchasing patterns. The dataset contains 11,251 entries and 15 features, focusing on customer demographics and order details.
