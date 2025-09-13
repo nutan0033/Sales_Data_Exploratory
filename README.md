@@ -13,7 +13,8 @@ The EDA focused on various aspects such as gender, age group, state, marital sta
 - A bar chart was plotted to count the number of purchases made by each gender.
   
 ![image](https://github.com/shobhitkumar0/Sales-Data-Exploratory-Analysis/assets/55182906/1fe07f19-4637-4321-8e03-3ad6f2ef3587)
-  From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men
+ 
+ -From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men
 - Another bar chart displayed the total amount spent by each gender by their age group, indicating higher spending by females.
   
   ![image](https://github.com/shobhitkumar0/Sales-Data-Exploratory-Analysis/assets/55182906/e47baf14-85ca-49c8-b1cb-48e7fe9ec4ae)
