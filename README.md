@@ -59,6 +59,13 @@ The EDA focused on various aspects such as gender, age group, state, marital sta
 
 - The most sold product categories were Food, Clothing, and Electronics.
 
+## Technologies Used
+- **Python** – core programming language for analysis  
+- **Pandas** – for data manipulation and preprocessing  
+- **Matplotlib** – for data visualization  
+- **Seaborn** – for advanced statistical visualizations  
+- **Jupyter Notebook / IDE** – for running and documenting the analysis  
+
 ## Conclusion
 The analysis concluded that married women in the age group of 26-35 years from UP, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from Food, Clothing, and Electronics categories.
 
